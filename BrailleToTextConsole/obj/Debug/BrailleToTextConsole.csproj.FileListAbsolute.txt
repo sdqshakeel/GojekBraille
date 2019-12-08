@@ -1,0 +1,7 @@
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\bin\Debug\BrailleToTextConsole.exe.config
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\bin\Debug\BrailleToTextConsole.exe
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\bin\Debug\BrailleToTextConsole.pdb
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\obj\Debug\BrailleToTextConsole.csprojAssemblyReference.cache
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\obj\Debug\BrailleToTextConsole.csproj.CoreCompileInputs.cache
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\obj\Debug\BrailleToTextConsole.exe
+C:\Users\shakils\source\repos\GoJek-Braille\BrailleToTextConsole\obj\Debug\BrailleToTextConsole.pdb

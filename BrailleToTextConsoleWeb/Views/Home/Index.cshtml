@@ -1,0 +1,21 @@
+﻿@model BrailleToTextConsoleWeb.Models.Student
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <button id="btn" style="position:absolute;left:-12000px"></button>
+    @Html.TextBox("StudentName", null, htmlAttributes: new { style = "width: 100%; max-width: 100%; height=200px", onkeyup = "txtOnKeyUp(this);", onkeydown = "txtOnKeyDown(this);", onkeypress = "txtOnKeyPress(this);", change = "txtOnChange(this)" })
+
+    <img id="curImg" />
+    <div class="row">
+        <label>Language: </label>
+        <h1 id="msgLang" class="lead"></h1>
+        <label>Emotion: </label>
+        <h1 id="msgSent" class="lead"></h1>
+        <label>Entity type found: </label>
+        <h1 id="msgEntity" class="lead"></h1>
+        <button id="btnSave" class="btn btn-primary btn-lg">Analyze</button>
+    </div>
+</div>
